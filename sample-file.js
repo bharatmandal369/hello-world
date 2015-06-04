@@ -1,0 +1,1 @@
+console.log('This is a sample repository for the hello-world project');
